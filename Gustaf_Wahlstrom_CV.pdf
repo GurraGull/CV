@@ -1,0 +1,151 @@
+{
+  "_meta": {
+    "owner": "Gustaf Wahlström",
+    "note": "Roles and standing mandates — distinct from individual events in events_curated.json. Event-level work rolls up under these roles; do not double-count."
+  },
+  "current_role": {
+    "title": "Project Lead & Department Secretary",
+    "organization": "Royal Swedish Academy of Engineering Sciences (IVA)",
+    "location": "Stockholm",
+    "start": 2015,
+    "end": null,
+    "summary": "Leads programmes and produces IVA's events across academia, business and government. Department Secretary for IVA Väst — the regional contact point for IVA Fellows and the Business Council in western Sweden."
+  },
+  "mandates_at_iva": [
+    {
+      "title": "Department Secretary — IVA Väst",
+      "start": 2015,
+      "end": null,
+      "ownership": "lead",
+      "summary": "Organizer and producer of the full IVA Väst programme — seminars, study visits, the annual summer mingle, tech-evenings and webinars. Contact point for Fellows and the regional Business Council."
+    },
+    {
+      "title": "Production & Technical Director — IVA Entrepreneurship Summit",
+      "start": 2024,
+      "end": null,
+      "ownership": "lead",
+      "summary": "Production and technical direction of IVA's flagship Entrepreneurship Summit (2024–2026)."
+    },
+    {
+      "title": "Project Lead — IVA Annual Ceremony (Högtidssammankomst)",
+      "years": [
+        2022,
+        2023,
+        2025,
+        2026
+      ],
+      "ownership": "lead",
+      "summary": "Project lead for IVA's formal Annual Ceremony at Konserthuset / Stadshuset. Earlier (2017–2018) acted as Konserthuset stage lead / project assistant alongside the lead producer."
+    },
+    {
+      "title": "Prince Daniel's Fellowship — School Visits & Innovation Journeys, Lead",
+      "start": 2024,
+      "end": null,
+      "ownership": "lead",
+      "summary": "Leads the Fellowship's school-visit and Innovation Journey ('Innovationsresor') programme. Previously sat on the Fellowship steering group as coordinator (2018–2023) and ran production & logistics for the national programme and its Entrepreneurship Days."
+    },
+    {
+      "title": "Prince Daniel's Fellowship — Steering group, Coordinator",
+      "start": 2018,
+      "end": 2023,
+      "ownership": "produced",
+      "summary": "Coordinator on the steering group for the national Prince Daniel's Fellowship programme; co-producer of the Prince Daniel's Entrepreneurship Day (2019–2023)."
+    },
+    {
+      "title": "Coordinator & Producer — IVA Näringslivsrådet (Business Council)",
+      "start": 2018,
+      "end": 2020,
+      "ownership": "lead",
+      "summary": "Coordinated the Business Council steering group and produced its breakfast-seminar series with senior business leaders."
+    },
+    {
+      "title": "Team Almedalen — Coordinator & Producer",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "ownership": "lead",
+      "summary": "Led and produced IVA's presence at Almedalen Week — a 1.5-day programme of seminars plus an evening mingle. Followed five years on the production crew with Utsikt Kommunikation (2011–2015), so this role meant returning to Almedalen on the lead side."
+    },
+    {
+      "title": "Project Coordinator — IVA thematic projects",
+      "start": 2015,
+      "end": 2020,
+      "ownership": "coordinated",
+      "summary": "Project coordinator on several major IVA projects: Resource Efficiency & Circular Economy (ReCE), Cities of the Future (Framtidens goda stad), and Innovation in the Forest Industry — working to the respective project leads.",
+      "projects": [
+        "ReCE — Resource Efficiency & Circular Economy",
+        "Framtidens goda stad — Cities of the Future",
+        "Innovation i skogsnäringen — Forest Industry Innovation"
+      ]
+    },
+    {
+      "title": "Technical Supervisor & Conference Host — IVA Conference Centre",
+      "start": 2013,
+      "end": 2015,
+      "ownership": "lead",
+      "summary": "AV production and live streaming at IVA's conference centre."
+    }
+  ],
+  "earlier_career": [
+    {
+      "title": "Stage & Technical Crew",
+      "organization": "Utsikt Kommunikation (Almedalen)",
+      "start": 2011,
+      "end": 2015,
+      "summary": "Part of the crew that built and ran the stages during Almedalen Week for five years — stagehand and technical staff, including production work for clients such as Google. This was the floor-level start of an Almedalen story that later moved to the lead side at IVA."
+    },
+    {
+      "title": "CEO & Co-founder",
+      "organization": "Gamebler.net",
+      "start": 2012,
+      "end": 2014,
+      "summary": "Co-founded and led a gaming/betting startup."
+    },
+    {
+      "title": "Restaurant Manager",
+      "organization": "Bro Hof Golf and Country Club",
+      "start": 2012,
+      "end": 2012,
+      "summary": "Ran restaurant operations; managed hospitality for the Nordea Masters event."
+    },
+    {
+      "title": "Head Waiter",
+      "organization": "Grodan / IVA Banquet Hall",
+      "start": 2010,
+      "end": 2013,
+      "summary": "Front-of-house lead in fine dining and banquet settings."
+    },
+    {
+      "title": "Sales Consultant",
+      "organization": "Meltwater Talent",
+      "start": 2010,
+      "end": 2011,
+      "summary": "B2B recruitment sales."
+    },
+    {
+      "title": "Golf Instructor / Officer of the Day",
+      "organization": "Main Golf and Tennis Academy, USA",
+      "start": 2004,
+      "end": 2006,
+      "summary": "Summers — coaching and daily operations."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Business in Entrepreneurship",
+      "school": "Bond University, Gold Coast, Australia",
+      "start": 2007,
+      "end": 2010,
+      "awards": [
+        "First in Class — Market Research and Analysis",
+        "Fisher and Shaw Prize — Best Organisation and Behaviour Company"
+      ]
+    }
+  ],
+  "languages": [
+    "Swedish (native)",
+    "English (fluent)"
+  ]
+}
